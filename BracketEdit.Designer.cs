@@ -488,6 +488,7 @@
             this.G1P1NameLocation.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.G1P1NameLocation.Multiline = true;
             this.G1P1NameLocation.Name = "G1P1NameLocation";
+            this.G1P1NameLocation.ReadOnly = true;
             this.G1P1NameLocation.Size = new System.Drawing.Size(140, 26);
             this.G1P1NameLocation.TabIndex = 42;
             // 
@@ -499,6 +500,7 @@
             this.G1P1ScoreLocation.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.G1P1ScoreLocation.Multiline = true;
             this.G1P1ScoreLocation.Name = "G1P1ScoreLocation";
+            this.G1P1ScoreLocation.ReadOnly = true;
             this.G1P1ScoreLocation.Size = new System.Drawing.Size(98, 26);
             this.G1P1ScoreLocation.TabIndex = 43;
             // 
@@ -510,6 +512,7 @@
             this.G1P2ScoreLocation.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.G1P2ScoreLocation.Multiline = true;
             this.G1P2ScoreLocation.Name = "G1P2ScoreLocation";
+            this.G1P2ScoreLocation.ReadOnly = true;
             this.G1P2ScoreLocation.Size = new System.Drawing.Size(98, 26);
             this.G1P2ScoreLocation.TabIndex = 45;
             // 
@@ -521,6 +524,7 @@
             this.G1P2NameLocation.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.G1P2NameLocation.Multiline = true;
             this.G1P2NameLocation.Name = "G1P2NameLocation";
+            this.G1P2NameLocation.ReadOnly = true;
             this.G1P2NameLocation.Size = new System.Drawing.Size(140, 26);
             this.G1P2NameLocation.TabIndex = 44;
             // 
@@ -532,6 +536,7 @@
             this.G2P2ScoreLocation.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.G2P2ScoreLocation.Multiline = true;
             this.G2P2ScoreLocation.Name = "G2P2ScoreLocation";
+            this.G2P2ScoreLocation.ReadOnly = true;
             this.G2P2ScoreLocation.Size = new System.Drawing.Size(98, 26);
             this.G2P2ScoreLocation.TabIndex = 49;
             // 
@@ -543,6 +548,7 @@
             this.G2P2NameLocation.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.G2P2NameLocation.Multiline = true;
             this.G2P2NameLocation.Name = "G2P2NameLocation";
+            this.G2P2NameLocation.ReadOnly = true;
             this.G2P2NameLocation.Size = new System.Drawing.Size(140, 26);
             this.G2P2NameLocation.TabIndex = 48;
             // 
@@ -554,6 +560,7 @@
             this.G2P1ScoreLocation.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.G2P1ScoreLocation.Multiline = true;
             this.G2P1ScoreLocation.Name = "G2P1ScoreLocation";
+            this.G2P1ScoreLocation.ReadOnly = true;
             this.G2P1ScoreLocation.Size = new System.Drawing.Size(98, 26);
             this.G2P1ScoreLocation.TabIndex = 47;
             // 
@@ -565,6 +572,7 @@
             this.G2P1NameLocation.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.G2P1NameLocation.Multiline = true;
             this.G2P1NameLocation.Name = "G2P1NameLocation";
+            this.G2P1NameLocation.ReadOnly = true;
             this.G2P1NameLocation.Size = new System.Drawing.Size(140, 26);
             this.G2P1NameLocation.TabIndex = 46;
             // 
@@ -576,6 +584,7 @@
             this.G4P2ScoreLocation.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.G4P2ScoreLocation.Multiline = true;
             this.G4P2ScoreLocation.Name = "G4P2ScoreLocation";
+            this.G4P2ScoreLocation.ReadOnly = true;
             this.G4P2ScoreLocation.Size = new System.Drawing.Size(98, 26);
             this.G4P2ScoreLocation.TabIndex = 83;
             // 
@@ -587,6 +596,7 @@
             this.G4P2NameLocation.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.G4P2NameLocation.Multiline = true;
             this.G4P2NameLocation.Name = "G4P2NameLocation";
+            this.G4P2NameLocation.ReadOnly = true;
             this.G4P2NameLocation.Size = new System.Drawing.Size(140, 26);
             this.G4P2NameLocation.TabIndex = 82;
             // 
@@ -598,6 +608,7 @@
             this.G4P1ScoreLocation.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.G4P1ScoreLocation.Multiline = true;
             this.G4P1ScoreLocation.Name = "G4P1ScoreLocation";
+            this.G4P1ScoreLocation.ReadOnly = true;
             this.G4P1ScoreLocation.Size = new System.Drawing.Size(98, 26);
             this.G4P1ScoreLocation.TabIndex = 81;
             // 
@@ -609,6 +620,7 @@
             this.G4P1NameLocation.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.G4P1NameLocation.Multiline = true;
             this.G4P1NameLocation.Name = "G4P1NameLocation";
+            this.G4P1NameLocation.ReadOnly = true;
             this.G4P1NameLocation.Size = new System.Drawing.Size(140, 26);
             this.G4P1NameLocation.TabIndex = 80;
             // 
@@ -620,6 +632,7 @@
             this.G3P2ScoreLocation.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.G3P2ScoreLocation.Multiline = true;
             this.G3P2ScoreLocation.Name = "G3P2ScoreLocation";
+            this.G3P2ScoreLocation.ReadOnly = true;
             this.G3P2ScoreLocation.Size = new System.Drawing.Size(98, 26);
             this.G3P2ScoreLocation.TabIndex = 79;
             // 
@@ -631,6 +644,7 @@
             this.G3P2NameLocation.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.G3P2NameLocation.Multiline = true;
             this.G3P2NameLocation.Name = "G3P2NameLocation";
+            this.G3P2NameLocation.ReadOnly = true;
             this.G3P2NameLocation.Size = new System.Drawing.Size(140, 26);
             this.G3P2NameLocation.TabIndex = 78;
             // 
@@ -642,6 +656,7 @@
             this.G3P1ScoreLocation.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.G3P1ScoreLocation.Multiline = true;
             this.G3P1ScoreLocation.Name = "G3P1ScoreLocation";
+            this.G3P1ScoreLocation.ReadOnly = true;
             this.G3P1ScoreLocation.Size = new System.Drawing.Size(98, 26);
             this.G3P1ScoreLocation.TabIndex = 77;
             // 
@@ -653,6 +668,7 @@
             this.G3P1NameLocation.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.G3P1NameLocation.Multiline = true;
             this.G3P1NameLocation.Name = "G3P1NameLocation";
+            this.G3P1NameLocation.ReadOnly = true;
             this.G3P1NameLocation.Size = new System.Drawing.Size(140, 26);
             this.G3P1NameLocation.TabIndex = 76;
             // 

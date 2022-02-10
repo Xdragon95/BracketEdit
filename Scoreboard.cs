@@ -112,6 +112,8 @@ namespace BracketEdit
             P1Score.Text = "0";
             P2Name.Text = "";
             P2Score.Text = "0";
+            a=0;
+            b=0;
         }
 
         private void BracketLocation_TextChanged(object sender, EventArgs e)

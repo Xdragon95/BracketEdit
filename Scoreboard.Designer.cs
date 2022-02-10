@@ -57,6 +57,7 @@
             this.P1Name.Size = new System.Drawing.Size(150, 25);
             this.P1Name.TabIndex = 0;
             this.P1Name.Text = "P1 Name";
+            this.P1Name.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // P1Score
             // 
@@ -92,6 +93,7 @@
             this.P2Name.Size = new System.Drawing.Size(150, 25);
             this.P2Name.TabIndex = 3;
             this.P2Name.Text = "P2 Name";
+            this.P2Name.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // BracketLocation
             // 
